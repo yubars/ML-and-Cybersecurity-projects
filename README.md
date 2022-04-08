@@ -1,2 +1,2 @@
 # ML-and-Cybersecurity-projects
-I have included others various ML and cybersecurity projects that I have done during my PhD study. 
+Here, I have included various ML and cybersecurity projects that I have done during my PhD study. 
